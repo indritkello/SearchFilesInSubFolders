@@ -1,0 +1,4 @@
+test.txt
+kello.docx
+file.png
+problematic.txt
