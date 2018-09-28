@@ -1,6 +1,6 @@
 test.txt-> TestFolder\Test1\test.txt
-TestFolder\Test3\test.txt
-TestFolder\Test4\SubFolder\test.txt
+test.txt-> TestFolder\Test3\test.txt
+test.txt-> TestFolder\Test4\SubFolder\test.txt
 kello.docx-> TestFolder\Test2\kello.docx
 file.png-> TestFolder\Test3\file.png
 problematic.txt-> Not found!

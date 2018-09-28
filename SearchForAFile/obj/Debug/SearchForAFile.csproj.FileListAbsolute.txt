@@ -4,3 +4,6 @@ C:\SearchForAFile\SearchForAFile\bin\Debug\SearchForAFile.pdb
 C:\SearchForAFile\SearchForAFile\obj\Debug\SearchForAFile.csprojResolveAssemblyReference.cache
 C:\SearchForAFile\SearchForAFile\obj\Debug\SearchForAFile.exe
 C:\SearchForAFile\SearchForAFile\obj\Debug\SearchForAFile.pdb
+C:\Users\Developer\Source\Repos\SearchFiles\SearchForAFile\bin\Debug\SearchForAFile.exe.config
+C:\Users\Developer\Source\Repos\SearchFiles\SearchForAFile\obj\Debug\SearchForAFile.exe
+C:\Users\Developer\Source\Repos\SearchFiles\SearchForAFile\obj\Debug\SearchForAFile.pdb
